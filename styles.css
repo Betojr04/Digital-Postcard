@@ -1,0 +1,42 @@
+body {
+	background: black;
+}
+.postcard {
+	background-color: white;
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
+.postcard-header {
+	display: flex;
+}
+.postcard-header img {
+	width: 50px;
+	height: 50px;
+}
+.postcard-header h1 {
+	width: x;
+	height: x;
+}
+.postcard-body {
+	display: flex;
+}
+.body-left p {
+	margin-top: x;
+	font-family: "Times New Roman", Times, serif;
+}
+.body-left,
+.body-right {
+	padding: x;
+}
+input {
+	border: x;
+	border-bottom: x;
+}
+.postcard-footer {
+	text-align: center;
+}
+button {
+	background-color: lightgray;
+	padding: 2px;
+}
